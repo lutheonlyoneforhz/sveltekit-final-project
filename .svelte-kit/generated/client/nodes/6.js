@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/auth/lucia/login-page/+page.svelte";

@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/main/Chats/Clients/+page.svelte";

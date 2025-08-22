@@ -1,0 +1,28 @@
+{
+	"/": [],
+	"/auth/lucia/forgotpassword-page": [
+		"src/routes/auth/lucia/forgotpassword-page/+page.server.ts"
+	],
+	"/auth/lucia/login-page": [
+		"src/routes/auth/lucia/login-page/+page.server.ts"
+	],
+	"/auth/lucia/signup-page": [
+		"src/routes/auth/lucia/signup-page/+page.server.ts"
+	],
+	"/main": [
+		"src/routes/main/+page.server.ts"
+	],
+	"/main/Calender": [],
+	"/main/Chats/Clients": [],
+	"/main/Chats/Therapists": [],
+	"/main/Clients": [],
+	"/main/Dashboard/Clients": [],
+	"/main/Dashboard/Therapists": [],
+	"/main/Home/LofiZone": [],
+	"/main/Home/Therapists": [],
+	"/main/Home/Treatments": [],
+	"/main/Therapists": [],
+	"/main/notes": [
+		"src/routes/main/notes/+page.server.ts"
+	]
+}
